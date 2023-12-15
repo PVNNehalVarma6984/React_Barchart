@@ -8,6 +8,7 @@ npm i
 npm run dev
 
 ```
+- Follow the youtube link to implment google charts: https://www.youtube.com/watch?v=dDTSg6RoYFQ
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
